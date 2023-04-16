@@ -5,7 +5,7 @@
 		"id": "sandbox",
 		"version": "${version}",
 		"metadata": {
-			"name": "Mod Name",
+			"name": "Sandbox Mod",
 			"description": "Playground to mess with Quilt modding.",
 			"contributors": {
 				"khankul": "Owner"
@@ -36,5 +36,5 @@
 			}
 		]
 	},
-	"mixin": "example_mod.mixins.json"
+	"mixin": "sandbox.mixins.json"
 }
